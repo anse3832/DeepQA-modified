@@ -19,7 +19,7 @@ Before running "test_FR.py" you have to consider two things.
    You must save the reference and distoted images in "Test_Images" folder
    The example of saving file is listed as below
 
-   1) put reference images in Test_Images/Reference folder
-   2) put distorted images in Test_Images folder
+   1) put reference images in "Test_Images/Reference" folder
+   2) put distorted images in "Test_Images folder"
    
-   there are examplar images in Test_Images foler
+   There are examplar images in "Test_Images" foler
