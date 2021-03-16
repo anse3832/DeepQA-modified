@@ -2,8 +2,9 @@
 
 This is the test code for NTIRE Perceptual Image Quality Assessment (PIQA) Challenge
 
-By running "test_FR.py", result of inference is saved on "output.txt"
-Befor running "test_FR.py" you have to consider two things. 
+By running "test_FR.py", result of inference is saved on "output.txt".
+
+Before running "test_FR.py" you have to consider two things. 
 
 1. There are four parameters in "test_FR.py" (from line 132 to 146)
    1) GPU_NUM: name of GPU you want to use.
